@@ -206,6 +206,7 @@ void peek()
 }
 ```
 Output:
+
 <img width="478" height="606" alt="image" src="https://github.com/user-attachments/assets/afc9f9c5-4e4a-4e1e-b29c-6448cd87c3ff" />
 
 
